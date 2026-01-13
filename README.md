@@ -1,6 +1,6 @@
-## zkGraf - A queryable trust graph for the Ethereum ecosystem.
-
 # 1. Introduction
+
+*zkGraf - A queryable trust graph for the Ethereum ecosystem*.
 
 Having a sybil-resistant measure of uniqueness would have many applications in the Ethereum ecosystem. Relying on pure coin voting has vulnerabilities - see here.
 
