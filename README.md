@@ -15,10 +15,10 @@ Two key observations:
 
 Design choices:
 
-- Fully censorship-resistant. (Ethereum L1 level censorship-resistance)
+- Fully censorship-resistant. (Ethereum L1 level censorship-resistance).
 - Operates like a zk-rollup, but with all DA onchain. (This is fine since the throughput of the rollup is small).
-- Batch forging is permissionless.
-- Use ETH as fee token (if use a native fee token then the rollup can be halted by controlling the supply)
+- Batch forging is permissionless. (and cheap, so a user can easily forge their own tx if it is being purposely ignored).
+- Use ETH as fee token. (If we use a native fee token then the rollup can be halted by controlling the supply).
 
 # 2. Main Protocol
 
