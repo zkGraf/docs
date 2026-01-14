@@ -36,6 +36,6 @@ A batcher can take some txs in the queue, apply them to the Graph Tree, work out
 
 # 3. Privacy
 
-This section looks at the how this protocol can be done in a privacy preserving way. 
+This section looks at the how the protocol can be done in a privacy preserving way. 
 
 The vouching protocol can be done in a privacy-preserving way (analogous to zcash) and claims about a users attestation set can be done too. However proving claims about structural properties of a larger portion of the graph becomes tricky and requires MPC techniques.
