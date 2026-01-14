@@ -4,9 +4,7 @@
 
 Having a sybil-resistant measure of uniqueness would have many applications in the Ethereum ecosystem. Relying on pure coin voting has vulnerabilities - see here.
 
-One approach to the sybil-resistance problem is through proof of personhood, usually involving some sort of biometric verification.
-
-Another reasonable approach is using a web-of-trust. ZkGraf is a protocol for building this trust graph on Ethereum. Users can then use this trust graph to prove claims about their uniqueness.
+One approach to the sybil-resistance problem is using a web-of-trust. ZkGraf is a protocol for building this trust graph on Ethereum. Users can then use this trust graph to prove claims about their uniqueness.
 
 Two key observations:
 
